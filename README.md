@@ -1,16 +1,4 @@
-# Description
-
-A repository to keep track of all my open source contributions. But, why?
-
-### Behind the Story
-
-Simply just because I found contributing to open source is very intimidating... then it was not simple at all. It was toxic.
-
-And then I have chosen to create this list of every open source pull request I have made here... proudly even so many ninjas there. Seems like I finally took a leap of faith and jumped into the world of the open source community. Here's some orange juice... 
-
-🍹🍹🍹
-
-# Contributions
+# My OSS Contributions
 
 ### Code 💻
 
@@ -18,16 +6,19 @@ And then I have chosen to create this list of every open source pull request I h
 - Veritrans Ruby - [#22](https://github.com/veritrans/veritrans-ruby/pull/22)
 - Amplify - [#28](https://github.com/ageitgey/amplify/pull/28)
 
-### Tools 🛠️
-
-- [HTML / ERB to Slim Converter](https://tools.gizipp.com/html-erb-to-slim) - Online tool to help you convert HTML / ERB into Slim template.
-- [Domain Checker](https://tools.gizipp.com/domain-checker) - Simple tool to check domain availability, is it registered?
-
 ## API ⚙️
 
-- [HTML / ERB to Slim Converter API](https://github.com/gizipp/slim-converter-api) - The API that powers [Slim Converter](https://tools.gizipp.com/html-erb-to-slim)
-- [Domain Checker API](https://github.com/gizipp/domain-checker-api) - The API that powers [Domain Checker](https://tools.gizipp.com/domain-checker)
+- [HTML / ERB to Slim Converter API](https://github.com/gizipp/slim-converter-api) - The API powers [Slim Converter](https://tools.gizipp.com/html-erb-to-slim)
+- [Domain Checker API](https://github.com/gizipp/domain-checker-api) - The API powers [Domain Checker](https://tools.gizipp.com/domain-checker)
+- [Domain Checker API](https://github.com/gizipp/whois-domain-api) - The API powers [WHOIS Domain Tools](https://tools.gizipp.com/whois-domain-tools)
 
+### Tools 🛠️
+
+- [HTML / ERB to Slim Converter](https://tools.gizipp.com/html-erb-to-slim) - Online tool to help you convert HTML / ERB into Slim template
+- [Domain Checker](https://tools.gizipp.com/domain-checker) - Simple tool to check domain availability, is it registered?
+- [WHOIS Domain Tools](https://tools.gizipp.com/whois-domain-tools) - Lookup and check WHOIS records from any certain domain
+
+...see all tools on [GIZ! Tools](https://tools.gizipp.com)
 
 ### Another projects ✍️
 
@@ -46,3 +37,13 @@ And then I have chosen to create this list of every open source pull request I h
 - [`blogspot`](https://github.com/gizipp/blogspot) - Just another Jekyll theme
 
 #### ... more contributions coming soon!
+
+# Behind the Story
+
+A repository to keep track of all my open source contributions. But, why?
+
+Simply just because I found contributing to open source is very intimidating... then it was not simple at all.
+
+And then I have chosen to create this list of every open source pull request I have made here... proudly. Seems like I finally took a leap of faith and jumped into the world of the open source community. So, here's some orange juice... 
+
+🍹🍹🍹
