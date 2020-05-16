@@ -10,7 +10,7 @@
 
 - [HTML / ERB to Slim Converter API](https://github.com/gizipp/slim-converter-api) - The API powers [Slim Converter](https://tools.gizipp.com/html-erb-to-slim)
 - [Domain Checker API](https://github.com/gizipp/domain-checker-api) - The API powers [Domain Checker](https://tools.gizipp.com/domain-checker)
-- [Domain Checker API](https://github.com/gizipp/whois-domain-api) - The API powers [WHOIS Domain Tools](https://tools.gizipp.com/whois-domain-tools)
+- [WHOIS Checker API](https://github.com/gizipp/whois-domain-api) - The API powers [WHOIS Domain Tools](https://tools.gizipp.com/whois-domain-tools)
 
 ### Tools 🛠️
 
@@ -20,10 +20,10 @@
 
 ...see all tools on [GIZ! Tools](https://tools.gizipp.com)
 
-### Another projects ✍️
+### Another personal projects ✍️
 
-- [`jekyll-got-skeleton`](https://github.com/gizipp/jekyll-got-skeleton) - Jekyll with skeleton base, fortunately it's Skeleton
-- [`chat-backend-demo`](https://github.com/gizipp/chat-backend-demo) - Chat API backend using Faye-websocket
+- [`jekyll-got-skeleton`](https://github.com/gizipp/jekyll-got-skeleton) - Jekyll theme with skeleton base, fortunately it's Skeleton.
+- [`chat-backend-demo`](https://github.com/gizipp/chat-backend-demo) - Chat API backend using Faye Websocket
 - [`nik-parser.rb`](https://github.com/gizipp/nik-parser.rb) - A lib to parse Indonesian citizenship registration number a.k.a NIK
 - [`sinatra-puma-skeleton`](https://github.com/gizipp/sinatra-puma-skeleton) - Ruby Sinatra Puma on Heroku
 - [`sample-chat-rabbitmq-bunny`](https://github.com/gizipp/sample-chat-rabbitmq-bunny) - Sample of simple chat using RabbitMQ (over Bunny)
@@ -34,7 +34,7 @@
 - [`pms`](https://github.com/gizipp/pms) - Project management software - a demo, Rails
 - [`acts_as_lockable`](`https://github.com/gizipp/acts_as_lockable`) - [UNMAINTAINED] Lock your records and let 'em untouched.
 - [`guess-random-word`](https://github.com/gizipp/guess-random-word) - Simple guessing random word game
-- [`blogspot`](https://github.com/gizipp/blogspot) - Just another Jekyll theme
+- [`blogspot`](https://github.com/gizipp/blogspot) - Personalized Jekyll theme
 
 #### ... more contributions coming soon!
 
