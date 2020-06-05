@@ -5,6 +5,7 @@
 - Bump - [#58](https://github.com/gregorym/bump/pull/58)
 - Veritrans Ruby - [#22](https://github.com/veritrans/veritrans-ruby/pull/22)
 - Amplify - [#28](https://github.com/ageitgey/amplify/pull/28)
+- Faker - [#1952](https://github.com/faker-ruby/faker/pull/1952)
 
 ## API ⚙️
 
