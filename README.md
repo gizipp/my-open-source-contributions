@@ -7,6 +7,12 @@
 - Amplify - [#28](https://github.com/ageitgey/amplify/pull/28)
 - Faker - [#1952](https://github.com/faker-ruby/faker/pull/1952)
 
+### Issue Report 🔥 
+
+- ActiveStorage Cloudinary - [#366](https://github.com/cloudinary/cloudinary_gem/issues/366)
+- Netlify CMS - [#3742](https://github.com/netlify/netlify-cms/issues/3742)
+- MetaInspector - [#262](https://github.com/metainspector/metainspector/issues/262)
+
 ## API ⚙️
 
 - [HTML / ERB to Slim Converter API](https://github.com/gizipp/slim-converter-api) - The API powers [Slim Converter](https://tools.gizipp.com/html-erb-to-slim)
